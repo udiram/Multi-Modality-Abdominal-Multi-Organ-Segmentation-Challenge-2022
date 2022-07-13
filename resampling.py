@@ -22,6 +22,8 @@ for element in tqdm(range(len(images_array))):
     img = sitk.ReadImage(img_path)
     label = sitk.ReadImage(label_path)
 
+    img.SetOrigin((0,0,0))
+    label.SetOrigin((0,0,0))
     # img.SetOrigin([0, 0, 0])
     # label.SetOrigin([0, 0, 0])
 
