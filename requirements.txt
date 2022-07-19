@@ -13,9 +13,9 @@ decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
 executing==0.8.3
-fastjsonschema==2.15.3
+fastjsonschema==2.16.1
 fonttools==4.34.4
-imageio==2.19.3
+imageio==2.19.5
 ipykernel==6.15.1
 ipython==8.4.0
 ipython-genutils==0.2.0
@@ -53,7 +53,7 @@ Pillow==9.2.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.30
 psutil==5.9.1
-pudb==2022.1.1
+pudb==2022.1.2
 pure-eval==0.2.2
 pycparser==2.21
 pydicom==2.3.0
