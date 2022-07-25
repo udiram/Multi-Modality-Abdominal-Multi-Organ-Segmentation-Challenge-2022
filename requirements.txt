@@ -15,7 +15,7 @@ entrypoints==0.4
 executing==0.8.3
 fastjsonschema==2.16.1
 fonttools==4.34.4
-imageio==2.19.5
+imageio==2.20.0
 ipykernel==6.15.1
 ipython==8.4.0
 ipython-genutils==0.2.0
