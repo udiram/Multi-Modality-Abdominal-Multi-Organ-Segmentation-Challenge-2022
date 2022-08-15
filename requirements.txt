@@ -1,6 +1,6 @@
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-asttokens==2.0.7
+asttokens==2.0.8
 attrs==21.4.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
@@ -14,7 +14,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==0.9.1
 fastjsonschema==2.16.1
-fonttools==4.34.4
+fonttools==4.35.0
 imageio==2.21.1
 ipykernel==6.15.1
 ipython==8.4.0
@@ -57,7 +57,7 @@ pudb==2022.1.2
 pure-eval==0.2.2
 pycparser==2.21
 pydicom==2.3.0
-Pygments==2.12.0
+Pygments==2.13.0
 pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil==2.8.2
@@ -73,7 +73,7 @@ SimpleITK==2.1.1.2
 six==1.16.0
 sns==0.1
 soupsieve==2.3.2.post1
-stack-data==0.3.0
+stack-data==0.4.0
 terminado==0.15.0
 tinycss2==1.1.1
 tornado==6.2
