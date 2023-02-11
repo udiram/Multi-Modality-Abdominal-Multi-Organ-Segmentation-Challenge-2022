@@ -17,7 +17,7 @@ fastjsonschema==2.16.1
 fonttools==4.35.0
 imageio==2.21.1
 ipykernel==6.15.1
-ipython==8.5.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.1
 jedi==0.18.1
