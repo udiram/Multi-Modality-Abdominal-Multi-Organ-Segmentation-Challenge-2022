@@ -1,0 +1,6 @@
+name: Task500_AMOS
+task: segmentation
+
+modality: CT
+datalist: "datalist.json" # list of files
+dataroot: "data" # data location
