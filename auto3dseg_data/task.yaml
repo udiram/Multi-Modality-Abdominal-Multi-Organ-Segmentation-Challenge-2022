@@ -4,3 +4,10 @@ task: segmentation
 modality: CT
 datalist: "datalist.json" # list of files
 dataroot: "data" # data location
+
+# indicate the new avg image size (to correctly determine amount of caching required)
+image_size: [200, 200, 310] # change this to our image size
+
+# update the random crop size (for training) to be slightly smaller, since the automatically
+# determined size was based on the whole image
+roi_size: [192, 192, 192]
