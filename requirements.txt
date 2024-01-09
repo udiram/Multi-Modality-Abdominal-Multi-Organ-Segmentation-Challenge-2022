@@ -14,7 +14,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==0.10.0
 fastjsonschema==2.16.1
-fonttools==4.35.0
+fonttools==4.43.0
 imageio==2.21.1
 ipykernel==6.15.1
 ipython==8.10.0
